@@ -15,6 +15,6 @@
 
 const GEOCORE_USERS = {
   "admin":   "geocore2024",
-  "demo":    "demo",
-  "mrec":    "mrec2024"
+  "Patrick Richards":    "rT4*U5xMmX",
+  "Dean Richards":    "gF^s$%p3mV"
 };
